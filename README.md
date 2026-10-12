@@ -2,7 +2,7 @@
 
 <!-- HERO: animated banner -->
 <a href="https://github.com/Chandanathota">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=AKSHAY%20KUMAR%20PALADUGU&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20GENAI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=59&animation=fadeIn&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6" width="100%" alt="Akshay Kumar Paladugu — AI, Machine Learning, Python, GenAI and Data Science"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=CHANDANA%20THOTA%20&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20GENAI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=59&animation=fadeIn&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6" width="100%" alt="Chandana thota — AI, Machine Learning, Python, GenAI and Data Science"/>
 </a>
 
 <br/>
